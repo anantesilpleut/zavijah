@@ -1,0 +1,30 @@
+{
+  "name": "Make me Shine — Analyse colorimétrique",
+  "short_name": "Make me Shine",
+  "description": "Analyse colorimétrique personnelle 12 saisons, 100% locale. Palette, miroir vivant, drapés, recommandations.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E0D0C",
+  "theme_color": "#0E0D0C",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
